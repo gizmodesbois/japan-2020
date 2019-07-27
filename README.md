@@ -115,6 +115,34 @@ Nombre de jours: non déterminé
 ## Nara
 Nombre de jours: non déterminé
 
+### Todai-ji Temple
+
+### Isui-en Garden
+
+### Kasuga-taisha Shrine
+
+### Nara-koen Park
+
+### Yakushi-ji Temple
+
+### Toshodai-ji Temple
+
+### Kasuga-Taisha
+
+### Heijo-kyo
+
+### Manger des hot pot
+
+### Higashimuki (shopping)
+
+### Dormir dans un temple
+
+### Naramachi
+
+### Onsen ryokan
+
+### Asuka nabe (food)
+
 ## Osaka
 Nombre de jours: non déterminé
 
@@ -176,7 +204,6 @@ Nombre de jours: non déterminé
 ### Iwakuni
 
 ### Takehara
-
 
 ## Miyajima
 Nombre de jours: non déterminé
