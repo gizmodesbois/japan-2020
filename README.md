@@ -34,6 +34,10 @@ Nombre de jours: 6 jours
 
 ### Batting center
 
+### Gundam
+
+### Kibi-dango (food)
+
 ## Nikko
 Nombre de jours: non déterminé
 
@@ -165,10 +169,44 @@ Nombre de jours: non déterminé
 ## Okayama
 Nombre de jours: 2 jours
 
+### Okayama Korakuen Garden
+
+### Kibitsu Shrine
+
+### Okayama castle
+
+### Saijo Inari
+
+### Korakuen Garden
+
+### Ushimado Olive Garden
+
+### Ikurado Cave
+
+### Fukiya Furusato-mura
+
+### Ashimori Samurai Residence
+
+### Momotaro statue
+
 ## Shikoku
 Nombre de jours: non déterminé
 
 ### Yoshino River
+
+### Naruto Whirlpool
+
+### Awa Dance
+
+### Tokushima Ramen
+
+### Ritsurin Garden
+
+### Konpira Shrine
+
+### Udon (food)
+
+### Naoshima
 
 ## Hiroshima
 Nombre de jours: non déterminé
