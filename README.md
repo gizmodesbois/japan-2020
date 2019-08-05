@@ -38,6 +38,20 @@ Nombre de jours: 6 jours
 
 ### Kibi-dango (food)
 
+### Omoide yokocho
+
+### TsuruTonTan Udon
+
+### Hachikō
+
+### Takeshita Street
+
+### Harajuku crepes
+
+### Yoyogi park
+
+### Oedo onsen
+
 ## Nikko
 Nombre de jours: non déterminé
 
@@ -242,6 +256,8 @@ Nombre de jours: non déterminé
 ### Iwakuni
 
 ### Takehara
+
+### Okonomiaki
 
 ## Miyajima
 Nombre de jours: non déterminé
