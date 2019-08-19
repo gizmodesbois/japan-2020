@@ -52,6 +52,8 @@ Nombre de jours: 6 jours
 
 ### Oedo onsen
 
+## Izu hanto
+
 ## Nikko
 Nombre de jours: non déterminé
 
